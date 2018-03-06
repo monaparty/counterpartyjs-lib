@@ -1,0 +1,1 @@
+{"version":3,"file":"CounterpartyAPIStub.js","sourceRoot":"/home/cryptcoin-junkey/git/counterpartyjs-lib/src/","sources":["CounterpartyAPIStub.ts"],"names":[],"mappings":";;AAAA;IAIE,6BAAY,QAA0B;QACpC,IAAI,CAAC,SAAS,GAAG,QAAQ,CAAC;IAC5B,CAAC;IAEM,sCAAQ,GAAf,UAAgB,MAAS;QACvB,MAAM,CAAC,IAAI,CAAC,SAAS,CAAC,MAAM,CAAC,CAAC;IAChC,CAAC;IACH,0BAAC;AAAD,CAAC,AAXD,IAWC;AAXqB,kDAAmB"}
